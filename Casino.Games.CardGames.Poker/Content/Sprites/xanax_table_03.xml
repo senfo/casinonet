@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PokerTH>
+  <TableStyle>
+     <StyleDescription value="xanax table 03" />
+     <StyleMaintainerName value="Sebastien Kerguen" />
+     <StyleMaintainerEMail value="sebastienkerguen@free.fr" />
+     <StyleCreateDate value="25.05.2009" />
+     <PokerTHStyleFileVersion value="1" />
+     <Preview value="preview.png" />
+     <IfFixedWindowSize value="1" />
+     <FixedWindowWidth value="1024" />
+     <FixedWindowHeight value="600" />
+     <MinimumWindowWidth value="1024" />
+     <MinimumWindowHeight value="600" />
+     <MaximumWindowWidth value="1980" />
+     <MaximumWindowHeight value="1200" />
+     <BigBlindPuck value="bigblindPuck.png" />
+     <SmallBlindPuck value="smallblindPuck.png" />
+     <DealerPuck value="dealerPuck.png" />
+     <DefaultAvatar value="genereticAvatar.png" />
+     <CardHolderFlop value="cardholder_flop.png" />
+     <CardHolderTurn value="cardholder_turn.png" />
+     <CardHolderRiver value="cardholder_river.png" />
+     <FoldButtonDefault value="playeraction_red.png" />
+     <FoldButtonHover value="playeraction_red_hover.png" />
+     <FoldButtonChecked value="playeraction_red_checked.png" />
+     <FoldButtonCheckedHover value="playeraction_red_checked_hover.png" />
+     <CheckCallButtonDefault value="playeraction_blue.png" />
+     <CheckCallButtonHover value="playeraction_blue_hover.png" />
+     <CheckCallButtonChecked value="playeraction_blue_checked.png" />
+     <CheckCallButtonCheckedHover value="playeraction_blue_checked_hover.png" />
+     <BetRaiseButtonDefault value="playeraction_green.png" />
+     <BetRaiseButtonHover value="playeraction_green_hover.png" />
+     <BetRaiseButtonChecked value="playeraction_green_checked.png" />
+     <BetRaiseButtonCheckedHover value="playeraction_green_checked_hover.png" />
+     <AllInButtonDefault value="playeraction_orange.png" />
+     <AllInButtonHover value="playeraction_orange_hover.png" />
+     <AllInButtonChecked value="playeraction_orange_checked.png" />
+     <AllInButtonCheckedHover value="playeraction_orange_checked_hover.png" />
+     <RadioButtonPressed value="radiobutton_pressed.png" />
+     <RadioButtonChecked value="radiobutton_checked.png" />
+     <RadioButtonCheckedHover value="radiobutton_checked_hover.png" />
+     <RadioButtonUnchecked value="radiobutton_unchecked.png" />
+     <RadioButtonUncheckedHover value="radiobutton_unchecked_hover.png" />  
+     <PlayerTopSeatInactive value="NULL" />
+     <PlayerTopSeatActive value="playerTopSeatActive.png" />
+     <PlayerBottomSeatInactive value="NULL" />
+     <PlayerBottomSeatActive value="playerBottomSeatActive.png" />
+     <Table value="table.png" />
+     <ToolBoxBackground value="toolboxbg.png" />
+     <HandRanking value="handranking.png" />
+     <ActionAllInI18NPic value="NULL" />
+     <ActionRaiseI18NPic value="NULL" />
+     <ActionBetI18NPic value="NULL" />
+     <ActionCallI18NPic value="NULL" />
+     <ActionCheckI18NPic value="NULL" />
+     <ActionFoldI18NPic value="NULL" />
+     <ActionWinnerI18NPic value="NULL" />
+     <ActionAllInI18NString value="NULL" />
+     <ActionRaiseI18NString value="NULL" />
+     <ActionBetI18NString value="NULL" />
+     <ActionCallI18NString value="NULL" />
+     <ActionCheckI18NString value="NULL" />
+     <ActionFoldI18NString value="NULL" />
+     <PotI18NString value="NULL" />
+     <TotalI18NString value="NULL" />
+     <BetsI18NString value="NULL" />
+     <GameI18NString value="NULL" />
+     <HandI18NString value="NULL" />
+     <PreflopI18NString value="NULL" />
+     <FlopI18NString value="NULL" />
+     <TurnI18NString value="NULL" />
+     <RiverI18NString value="NULL" />
+
+
+
+     <FKeyIndicatorColor value="FFFFFF" />
+     <ChanceLabelPossibleColor value="9da6ff" />
+     <ChanceLabelImpossibleColor value="505584" />
+
+     <ChatTextNickNotifyColor value="9da6ff" />
+     <ChatLogTextColor value="9da6ff" />
+     <ChatLogBgColor value="23285e" />
+     <ChatLogScrollBarBorderColor value="232969" />
+     <ChatLogScrollBarBgColor value="282f78" />
+     <ChatLogScrollBarHandleBorderColor value="3943ab" />
+     <ChatLogScrollBarHandleBgColor value="323b96" />
+     <ChatLogScrollBarArrowBorderColor value="208A00" />
+     <ChatLogScrollBarArrowBgColor value="5463fc" />
+
+     <LogWinnerMainPotColor value="dde0ff" />
+     <LogWinnerSidePotColor value="f9f9ff" />
+     <LogPlayerSitsOutColor value="888baa" />
+     <LogNewGameAdminColor value="b6b9d8" />
+
+     <TabWidgetBorderColor value="37409b" />
+     <TabWidgetBgColor value="23285e" />
+     <TabWidgetTextColor value="9da6ff" />
+
+     <MenuBgColor value="2a317d" />
+     <MenuTextColor value="9da6ff" />
+
+     <BreakLobbyButtonBgColor value="2a317d" />
+     <BreakLobbyButtonTextColor value="9da6ff" />
+     <BreakLobbyButtonBgDisabledColor value="2a317d" />
+     <BreakLobbyButtonTextDisabledColor value="486F3E" />
+     <BreakLobbyButtonBgBlinkColor value="6E9E00" />
+     <BreakLobbyButtonTextBlinkColor value="000000" />
+
+     <PlayerCashTextColor value="FFFF00" />
+     <PlayerBetTextColor value="FFFF00" />
+     <PlayerNickTextColor value="F0F0F0" />
+
+     <BoardBigTextColor value="33754a" />
+     <BoardSmallTextColor value="33754a" />
+
+     <SpeedTextColor value="9da6ff" />
+     <VoteButtonBgColor value="1C7000" />
+     <VoteButtonTextColor value="9da6ff" />
+
+     <BetInputTextColor value="F0F0F0" />
+     <BetInputBgColor value="23285e" />
+     <BetInputDisabledTextColor value="6d7b5f" />
+     <BetInputDisabledBgColor value="23285e" />
+     <FoldButtonTextColor value="F0F0F0" />
+     <FoldButtonCheckableTextColor value="FF8787" />
+     <CheckCallButtonTextColor value="F0F0F0" />
+     <CheckCallButtonCheckableTextColor value="87CDFF" />
+     <BetRaiseButtonTextColor value="F0F0F0" />
+     <BetRaiseButtonCheckableTextColor value="87FF97" />
+     <AllInButtonTextColor value="F0F0F0" />
+     <AllInButtonCheckableTextColor value="FFE187" />
+
+     <BetSpeedSliderGrooveBgColor value="2a317d" />
+     <BetSpeedSliderGrooveBorderColor value="37409b" />
+     <BetSpeedSliderHandleBgColor value="9da6ff" />
+     <BetSpeedSliderHandleBorderColor value="37409b" />
+
+     <ChatLogTextSize value="11" />
+
+  </TableStyle>
+</PokerTH>
