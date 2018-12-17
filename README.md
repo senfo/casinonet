@@ -17,5 +17,6 @@ Casino.NET is still very much at the beginning stages of development. While the 
 [Artwork](http://x-a-n-a-x.deviantart.com/art/Table-Style-03-for-PokerTH-123141325)
 
 ### Screenshots
-![logo][table]
+![Table][table]
+
 [table]: http://farm3.static.flickr.com/2445/3793434209_222ffc2dea_m.jpg "Table"
